@@ -31,3 +31,37 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_facts: yes
           config_timezone: America/Recife
+      - name: Pinned
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/pinned.svg
+          committer_branch: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          committer_branch: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_threshold: 5%
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot, scss, sass
+          plugin_languages_colors: rainbow
+          plugin_languages_limit: 8
+          plugin_languages_details: byte-size, percentage, lines
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/isocalendar.svg
+          committer_branch: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
