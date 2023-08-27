@@ -23,6 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/licenses.svg
           committer_branch: metrics
+          base: ""
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugin_licenses_ratio: yes
