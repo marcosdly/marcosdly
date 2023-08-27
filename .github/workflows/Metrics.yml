@@ -24,6 +24,7 @@ jobs:
           filename: metrics/licenses.svg
           committer_branch: metrics
           base: ""
+          template: repository
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugin_licenses_ratio: yes
