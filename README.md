@@ -1,7 +1,7 @@
 <h1 align="center">🖖</h1>
 
 <p align="center">
-I'm a Brazilian software developer that programs out of passion. Programming is my job, hobby and the reason I'm always trying to improve in every aspect of my life. I'm yet to find a field I would like to specialize in, so for now (and if I'm able to) I just go for things that I deem fun.
+Just for fun.
 </p>
 
 <table align="center">
@@ -15,12 +15,12 @@ I'm a Brazilian software developer that programs out of passion. Programming is 
     <tr>
       <td align="center">
         <a href=".">
-          <img src="https://skillicons.dev/icons?i=py,bash&theme=light&perline=3" alt="Tools">
+          <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=light&perline=3" alt="Tools">
         </a>
       </td>
       <td align="center">
         <a href=".">
-          <img src="https://skillicons.dev/icons?i=linux,vscode&theme=light&perline=3" alt="Skills">
+          <img src="https://skillicons.dev/icons?i=linux,windows,neovim,vscode&theme=light&perline=3" alt="Skills">
         </a>
       </td>
     </tr>
