@@ -1,50 +1,76 @@
-<h1 align="center">🖖</h1>
+<h1 align="center">Aye :wave:</h1>
 
-<p align="center">
-Just for fun.
-</p>
+<p valign="center" align="center">I code. Just for fun.</p>
 
 <table align="center">
-  <thead>
-    <tr>
-      <th align="center">Tools</th>
-      <th align="center">Workflow</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href=".">
-          <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=light&perline=3" alt="Tools">
-        </a>
-      </td>
-      <td align="center">
-        <a href=".">
-          <img src="https://skillicons.dev/icons?i=linux,windows,neovim,vscode&theme=light&perline=3" alt="Skills">
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  <tr height="80">
+    <td align="center">
+      <img src="https://skillicons.dev/icons?theme=light&i=windows,debian" />
+    </td>
+    <td align="center">
+      <img
+        src="https://skillicons.dev/icons?theme=light&i=vscode,pycharm,neovim"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" height="80">
+      <img
+        src="https://skillicons.dev/icons?perline=10&theme=light&i=js,ts,html,css,py,lua,powershell,bash"
+      />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <em>"Well, some doctors have the messiah complex. They need to save the world. You've got the Rubik's complex. You need to solve the puzzle."</em>
+  <em
+    >"Well, some doctors have the messiah complex. They need to save the world.
+    You've got the Rubik's complex. You need to solve the puzzle."</em
+  >
 </p>
 
-<p float="left" align="center">
-  <a href=".">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcosdly&show_icons=true&show=reviews&theme=gruvbox&hide_title=true&hide_rank=true&number_format=long" alt="Stats" height="200" hspace="3">
-  </a>
-  <a href=".">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdly&theme=gruvbox&hide_title=true&langs_count=6&layout=donut&exclude_repo=dwm,dotfiles,zshrc" alt="Languages" height="200" hspace="3">
-  </a>
-</p>
+<details>
+  <summary>English :us:/:uk:</summary>
+  <br />
+  <table align="center">
+    <tr>
+      <td align="center" valign="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=en&number_format=long&disable_animations=true&custom_title=Statistics&show=prs_merged,discussions_started,prs_merged_percentage"
+        />
+        <br />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=en&disable_animations=true&custom_title=Languages%20%28Tools%29&langs_count=6&layout=compact&count_weight=0.75&size_weight=0.25"
+        />
+      </td>
+      <td align="center" valign="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=en&disable_animations=true&custom_title=WakaTime&langs_count=16&display_format=time"
+        />
+      </td>
+    </tr>
+  </table>
+</details>
 
-<p align="center" float="center">
-  <a href="https://www.instagram.com/marcosdly/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-ea4a66?style=for-the-badge&logo=instagram&logoColor=fff" hspace="2">
-  </a>
-  <a href="mailto:dev.marcosdly@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/dev.marcosdly%40gmail.com-ffd700?style=for-the-badge&logo=gmail&logoColor=000" hspace="2">
-  </a>
-</p>
+<details open>
+  <summary>Português Brasileiro :brazil:</summary>
+  <br />
+  <table align="center">
+    <tr>
+      <td align="center" valign="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=pt-br&number_format=long&disable_animations=true&custom_title=Estat%C3%ADsticas&show=prs_merged,discussions_started,prs_merged_percentage"
+        />
+        <br />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=pt-br&disable_animations=true&custom_title=Linguagens%20%28Ferramentas%29&langs_count=6&layout=compact&count_weight=0.75&size_weight=0.25"
+        />
+      </td>
+      <td align="center" valign="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosdly&show_icons=true&card_width=500&theme=github_dark&bg_color=000000cc&locale=pt-br&disable_animations=true&custom_title=WakaTime&langs_count=16&display_format=time"
+        />
+      </td>
+    </tr>
+  </table>
+</details>
